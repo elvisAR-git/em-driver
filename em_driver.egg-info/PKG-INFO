@@ -1,16 +1,15 @@
 Metadata-Version: 2.1
 Name: em-driver
-Version: 0.0.3
+Version: 0.0.4
 Summary: A simple library to help you read, write and update SQLite3 databases
-Home-page: https://github.com/pypa/sampleproject
+Home-page: https://github.com/elvisAR-git/em-driver
 Author: Elvis Moraa
 Author-email: elvismoraa2@gmail.com
 License: UNKNOWN
-Description: # Example Package
+Description: # em-driver
         
-        This is a simple example package. You can use
-        [Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-        to write your content.
+        This is a simple package. It will help you to build SQLite3 databases in python without having to define the SQl schema yourself.
+        Have fun!
         
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
